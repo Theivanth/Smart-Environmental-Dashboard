@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using this metadata."
+title: "Smart Environmental Intelligence"
+authors:
+  - family-names: Rajamohan
+    given-names: Theivanth
+repository-code: "https://github.com/Theivanth/Smart-Environmental-Dashboard"
+license: MIT

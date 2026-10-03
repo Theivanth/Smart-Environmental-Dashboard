@@ -121,4 +121,8 @@ The project depends on common Python libraries for data science and ML workflows
 
 ## License
 
-This project is intended for educational and prototyping use.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for the full text.
+
+## Citation
+
+If you use this project in your work, cite it using the metadata in [CITATION.cff](CITATION.cff), or use GitHub's **Cite this repository** feature.
