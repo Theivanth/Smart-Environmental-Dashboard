@@ -4,6 +4,16 @@ A machine learning project for monitoring and forecasting environmental conditio
 
 This directory is designed to be maintained as a standalone Git repository. Clone the URL for this project repository, then follow the setup instructions below.
 
+## Dashboard Screenshots
+
+### Model training
+
+![Model training interface](training-dashboard.png)
+
+### Risk dashboard
+
+![Environmental risk dashboard](risk-dashboard.png)
+
 ## Project Goals
 
 - Collect and clean environmental sensor and historical data
